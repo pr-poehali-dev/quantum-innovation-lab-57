@@ -25,7 +25,8 @@ export default function Hero() {
         />
       </motion.div>
 
-      <div className="relative z-10 text-center text-white px-6" style={{ textShadow: '0 0 20px rgba(0,0,0,0.9), 1px 1px 0 #000, -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000' }}>
+      <div className="absolute inset-0 bg-black/40 z-0" />
+      <div className="relative z-10 text-center text-white px-6" style={{ textShadow: '0 2px 8px rgba(0,0,0,0.9)' }}>
         <p className="uppercase tracking-[0.3em] text-sm md:text-base opacity-80 mb-4">Частные чартерные рейсы</p>
         <h1 className="text-5xl md:text-7xl lg:text-8xl font-bold tracking-tight mb-6 leading-none">
           ЛЕТИТЕ<br />БЕЗ ГРАНИЦ
