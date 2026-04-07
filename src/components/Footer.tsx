@@ -9,45 +9,18 @@ export default function Footer() {
           <div className="bg-neutral-900 py-4 sm:py-6 lg:py-8 px-4 sm:px-6 h-full w-full flex flex-col justify-between">
             <div className="flex shrink-0 gap-8 sm:gap-12 lg:gap-20">
               <div className="flex flex-col gap-1 sm:gap-2">
-                <h3 className="mb-1 sm:mb-2 uppercase text-neutral-400 text-xs sm:text-sm">Услуги</h3>
-                <a
-                  href="#fleet"
-                  className="text-white hover:text-neutral-400 transition-colors duration-300 text-sm sm:text-base"
-                >
-                  Наш флот
-                </a>
-                <a
-                  href="#routes"
-                  className="text-white hover:text-neutral-400 transition-colors duration-300 text-sm sm:text-base"
-                >
-                  Маршруты
-                </a>
-                <a
-                  href="#contact"
-                  className="text-white hover:text-neutral-400 transition-colors duration-300 text-sm sm:text-base"
-                >
-                  Запросить рейс
-                </a>
-              </div>
-              <div className="flex flex-col gap-1 sm:gap-2">
                 <h3 className="mb-1 sm:mb-2 uppercase text-neutral-400 text-xs sm:text-sm">Контакты</h3>
                 <a
-                  href="tel:+78001234567"
+                  href="tel:+79022006777"
                   className="text-white hover:text-neutral-400 transition-colors duration-300 text-sm sm:text-base"
                 >
-                  +7 800 123-45-67
+                  +7-902-200-6777
                 </a>
                 <a
-                  href="mailto:fly@airprive.ru"
+                  href="mailto:fly@mfc.ru"
                   className="text-white hover:text-neutral-400 transition-colors duration-300 text-sm sm:text-base"
                 >
-                  fly@airprive.ru
-                </a>
-                <a
-                  href="#concierge"
-                  className="text-white hover:text-neutral-400 transition-colors duration-300 text-sm sm:text-base"
-                >
-                  Консьерж 24/7
+                  fly@mfc.ru
                 </a>
               </div>
             </div>

@@ -14,9 +14,9 @@ export default function Featured() {
           Никаких очередей и пересадок — вылет по вашему расписанию. Конфиденциальность, премиальный сервис
           и прямой доступ к тысячам аэропортов по всему миру.
         </p>
-        <button className="bg-black text-white border border-black px-4 py-2 text-sm transition-all duration-300 hover:bg-white hover:text-black cursor-pointer w-fit uppercase tracking-wide">
+        <a href="tel:+79022006777" className="bg-black text-white border border-black px-4 py-2 text-sm transition-all duration-300 hover:bg-white hover:text-black w-fit uppercase tracking-wide inline-block">
           Запросить рейс
-        </button>
+        </a>
       </div>
     </div>
   );

@@ -33,9 +33,9 @@ export default function Hero() {
         <p className="text-lg md:text-xl max-w-2xl mx-auto opacity-90 mb-10">
           Ваш маршрут. Ваше время. Полный комфорт и приватность на борту.
         </p>
-        <button className="border border-white text-white px-8 py-3 uppercase tracking-widest text-sm hover:bg-white hover:text-black transition-all duration-300">
+        <a href="tel:+79022006777" className="border border-white text-white px-8 py-3 uppercase tracking-widest text-sm hover:bg-white hover:text-black transition-all duration-300 inline-block">
           Запросить рейс
-        </button>
+        </a>
       </div>
     </div>
   );
