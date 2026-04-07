@@ -25,13 +25,17 @@ export default function Hero() {
         />
       </motion.div>
 
-      <div className="relative z-10 text-center text-white">
-        <h1 className="text-5xl md:text-7xl lg:text-8xl font-bold tracking-tight mb-6">
-          ОТКРОЙ
+      <div className="relative z-10 text-center text-white px-6">
+        <p className="uppercase tracking-[0.3em] text-sm md:text-base opacity-80 mb-4">Частные чартерные рейсы</p>
+        <h1 className="text-5xl md:text-7xl lg:text-8xl font-bold tracking-tight mb-6 leading-none">
+          ЛЕТИТЕ<br />БЕЗ ГРАНИЦ
         </h1>
-        <p className="text-lg md:text-xl max-w-2xl mx-auto px-6 opacity-90">
-          Исследуй границы дизайна с иммерсивным параллакс-эффектом
+        <p className="text-lg md:text-xl max-w-2xl mx-auto opacity-90 mb-10">
+          Ваш маршрут. Ваше время. Полный комфорт и приватность на борту.
         </p>
+        <button className="border border-white text-white px-8 py-3 uppercase tracking-widest text-sm hover:bg-white hover:text-black transition-all duration-300">
+          Запросить рейс
+        </button>
       </div>
     </div>
   );
