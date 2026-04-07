@@ -17,10 +17,10 @@ export default function Footer() {
                   +7-902-200-6777
                 </a>
                 <a
-                  href="mailto:fly@mfc.ru"
+                  href="mailto:fly@fc.ru"
                   className="text-white hover:text-neutral-400 transition-colors duration-300 text-sm sm:text-base"
                 >
-                  fly@mfc.ru
+                  fly@fc.ru
                 </a>
               </div>
             </div>

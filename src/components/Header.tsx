@@ -9,12 +9,6 @@ export default function Header({ className }: HeaderProps) {
         <div className="text-white text-sm uppercase tracking-widest font-light">Flying Carpet</div>
         <nav className="flex gap-8">
           <a
-            href="#fleet"
-            className="text-white hover:text-neutral-400 transition-colors duration-300 uppercase text-sm"
-          >
-            Флот
-          </a>
-          <a
             href="tel:+79022006777"
             className="text-white hover:text-neutral-400 transition-colors duration-300 uppercase text-sm"
           >

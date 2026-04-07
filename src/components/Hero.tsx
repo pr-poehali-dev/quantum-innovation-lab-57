@@ -27,7 +27,7 @@ export default function Hero() {
 
       <div className="relative z-10 text-center text-white px-6">
         <p className="uppercase tracking-[0.3em] text-sm md:text-base opacity-80 mb-4">Частные чартерные рейсы</p>
-        <h1 className="text-5xl md:text-7xl lg:text-8xl font-bold tracking-tight mb-6 leading-none">
+        <h1 className="text-5xl md:text-7xl lg:text-8xl font-bold tracking-tight mb-6 leading-none" style={{ textShadow: '0 0 20px rgba(0,0,0,0.8), 1px 1px 0 #000, -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000' }}>
           ЛЕТИТЕ<br />БЕЗ ГРАНИЦ
         </h1>
         <p className="text-lg md:text-xl max-w-2xl mx-auto opacity-90 mb-10">
