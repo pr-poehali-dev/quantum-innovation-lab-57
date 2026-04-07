@@ -14,7 +14,7 @@ export default function Footer() {
                   href="tel:+79022006777"
                   className="text-white hover:text-neutral-400 transition-colors duration-300 text-sm sm:text-base"
                 >
-                  +7-902-200-6777
+                  +7-902-2006-777
                 </a>
                 <a
                   href="mailto:fly@fc.ru"
